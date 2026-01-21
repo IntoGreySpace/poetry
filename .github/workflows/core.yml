@@ -45,9 +45,6 @@ jobs:
       - name: Build App
         run: core build web -o static
 
-      - name: Copy CNAME
-        run: cp CNAME static
-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
