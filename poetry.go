@@ -24,7 +24,7 @@ var icon string
 func main() {
 	core.AppIcon = icon
 	content.Settings.SiteTitle = "The Grey Space"
-	content.OfflineURL = "https://grey-space.org"
+	content.OfflineURL = "https://poetry.grey-space.org"
 	b := core.NewBody(content.Settings.SiteTitle)
 	ct := content.NewContent(b).SetContent(econtent)
 	ctx := ct.Context

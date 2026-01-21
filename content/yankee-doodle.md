@@ -1,4 +1,5 @@
 +++
+Name = "Yankee Doodle"
 Date = "1989-04-22"
 +++
 
@@ -25,7 +26,7 @@ backed by personified nature, and ideal man.
 
 Looking back, they see ahead\
 death, fear, anger grinning\
-dripping fangs feeding poison stream\
+dripping fangs feeding a poison stream\
 etching a cavern wide\
 in the sediment of time.
 
@@ -38,4 +39,7 @@ The mask, hanging in celestial remove\
 laughs with our own eyes\
 upon our weary race\
 and the man with the bat is there to face.
+
+{id="painting_yankee-doodle" style="height:40em"}
+![Yankee Doodle](media/yankee_doodle.jpg)
 

@@ -43,3 +43,9 @@ They will they destroy
 
 ...but what about the planet? 
 
+{id="painting_the-answer" style="height:40em"}
+![The Answer](media/the_answer.jpg)
+
+{id="painting_the-answer-amiga" style="height:40em"}
+![The Answer drawn on my Amiga computer](media/the_answer_amiga.png)
+

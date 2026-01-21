@@ -34,5 +34,5 @@ searching, with muffled drive for you...\
 but you're done exercising your soul right.
 
 {id="photo_liquid-moments" style="height:40em"}
-![Liquid moments at night](media/liquid_moments.jpg)
+![Liquid Moments at Night](media/liquid_moments.jpg)
 

@@ -43,3 +43,7 @@ when two get together, there's really three!
 
 "Oh, but what does this mean to me?"
 
+{id="painting_the-human-condition" style="height:40em"}
+![The Human Condition](media/the_human_condition.jpg)
+
+

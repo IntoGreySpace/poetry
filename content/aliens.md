@@ -28,8 +28,8 @@ All the perspective we need\
 is no further away\
 than arms length!
 
-The infinite universe is\
-just a clear night away
+The infinite universe\
+is as close as a clear night's view
 
 When the aliens come\
 they will say\

@@ -1,4 +1,5 @@
 +++
+Name = "Always Questioning"
 Date = "1998-01-24"
 +++
 
@@ -14,7 +15,7 @@ When?\
 How?
 
 Then, as now, I hold my breath\
-always lurking in the backround,\
+always lurking in the background,\
 my death\
 and between then and now\
 what to do? when? and how?

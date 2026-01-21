@@ -1,4 +1,5 @@
 +++
+Name = "Limbo Man"
 Date = "1987-11-01"
 +++
 
@@ -42,4 +43,7 @@ my warm, faintly-pumping shirt\
 but I cannot see --- where is the tree?
 
 It must be me.
+
+{id="painting_limbo-man" style="height:40em"}
+![Limbo man](media/limbo_man.jpg)
 
