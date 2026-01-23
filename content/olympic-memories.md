@@ -3,7 +3,7 @@ Name = "Olympic Memories"
 Date = "1992-08-01"
 +++
 
-Watching the atheletes play\
+Watching the athletes play\
 during that wild, tumbling day\
 my emotions gyrate and sway\
 with each word that you say.
