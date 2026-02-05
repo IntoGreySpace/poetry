@@ -6,12 +6,12 @@ Is there anyone else\
 who doesn't need to wait\
 for the aliens to come?
 
-To see the people on this planet\
+To see this planet's people\
 crawling like alien insects\
 invading native lands\
-with their all-terrain vehicles
+with their ATV's
 
-To see the brains of these strangers,\
+To see these stranger's brains,\
 myself among them\
 crawling like alien germs\
 in grey confines
@@ -29,7 +29,8 @@ is no further away\
 than arms length!
 
 The infinite universe\
-is as close as a clear night's view
+is as close\
+as a clear night's view
 
 When the aliens come\
 they will say\
@@ -40,8 +41,10 @@ in my mind\
 who should I take them to?
 
 What leader will greet them\
-with the same awe that I feel?
+with the same awe\
+that I feel?
 
-What leader will look in the mirror\
-and laugh with green recognition!?
+Who will look in the mirror\
+and laugh\
+with green recognition!?
 
