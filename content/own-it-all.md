@@ -18,7 +18,7 @@ your sinew\
 all of you.
 
 (I didn't add bones\
-as it is unclear\
+as it's unclear\
 if that's something\
 one more rents\
 than owns?)
