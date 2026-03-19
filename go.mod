@@ -4,7 +4,7 @@ go 1.25.6
 
 require (
 	cogentcore.org/core v0.3.21
-	cogentcore.org/lab v0.1.5
+	cogentcore.org/lab v0.1.6
 )
 
 require (
