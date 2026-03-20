@@ -36,6 +36,7 @@ Owning it all\
 means owning:\
 your weakness\
 your insecurities\
+your conflicts\
 your addictions\
 your dysfunctions\
 your embarrassments\
@@ -66,7 +67,27 @@ Did I miss anything?\
 no worries\
 you own that too.
 
-Owning it all\
+Just never even think\
+of owning anyone else\
+in any way\
+or even having much sway\
+in what they think\
+or feel.
+
+Aren't you enough?\
+Or perhaps not\
+and that's the hole\
+you hope to fill?
+
+(Truly owning yourself\
+is always enough\
+so we'll all know\
+you've failed\
+when someone else\
+is assailed)
+
+And finally,\
+owning it all\
 means owning:\
 your death\
 but nothing more\
