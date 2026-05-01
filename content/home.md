@@ -97,4 +97,6 @@ If you want to read about the philosophy behind these musings, see the main [gre
 * 2026-03-15: [[Surfing Downstream]]
 * 2026-03-18: [[Own it All!]]
 * 2026-04-03: [[Strange Manifold]]
+* 2026-04-17: [[Homeless]]
+* 2026-05-01: [[Lost in Transition]]
 

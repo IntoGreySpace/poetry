@@ -11,7 +11,7 @@ in this transition
 I used to be\
 somebody\
 I knew\
-even to you
+even to you.
 
 That person is gone\
 washed away\
