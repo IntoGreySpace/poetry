@@ -100,4 +100,5 @@ If you want to read about the philosophy behind these musings, see the main [gre
 * 2026-04-17: [[Homeless]]
 * 2026-05-01: [[Lost in Transition]]
 * 2026-06-12: [[Finding My Religion]]
+* 2026-06-21: [[The Monks are Cheating]]
 
