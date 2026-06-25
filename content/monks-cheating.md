@@ -71,7 +71,7 @@ in a crazy,\
 wanton world.
 
 But by letting go\
-we obtain more flow\
+we get more flow\
 less control is more\
 if you're balanced\
 and truly free\
