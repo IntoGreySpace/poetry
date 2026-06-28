@@ -10,7 +10,6 @@ import (
 	"cogentcore.org/core/content"
 	"cogentcore.org/core/core"
 	"cogentcore.org/core/icons"
-	_ "cogentcore.org/core/text/tex" // include this to get math
 	"cogentcore.org/core/tree"
 	_ "cogentcore.org/lab/yaegilab"
 )
