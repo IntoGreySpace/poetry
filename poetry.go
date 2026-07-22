@@ -11,7 +11,7 @@ import (
 	"cogentcore.org/core/core"
 	"cogentcore.org/core/icons"
 	"cogentcore.org/core/tree"
-	_ "cogentcore.org/lab/yaegilab"
+	_ "cogentcore.org/core/yaegicore"
 )
 
 //go:embed content
