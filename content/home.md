@@ -90,6 +90,10 @@ If you want to read about the philosophy behind these musings, see the main [gre
 * 2006-04-09: [[Slow Suicide]]
 * 2006-06-20: [[Hanging by a Thread]]
 
+### 2026
+
+20 years later..
+
 * 2026-01-17: [[75% Water]]
 * 2026-01-24: [[Loss Aversion]]
 * 2026-03-07: [[An Extra Ordinary Moment]]
@@ -97,11 +101,15 @@ If you want to read about the philosophy behind these musings, see the main [gre
 * 2026-03-15: [[Surfing Downstream]]
 * 2026-03-18: [[Own it All!]]
 * 2026-04-03: [[Strange Manifold]]
+* 2026-04-06: [[The Geometry of Love]]
+* 2026-04-14: [[Love Child]]
 * 2026-04-17: [[Homeless]]
 * 2026-05-01: [[Lost in Transition]]
 * 2026-06-12: [[Finding My Religion]]
 * 2026-06-15: [[The Helicopter View]]
+* 2026-06-18: [[Coupled Oscillators]]
 * 2026-06-21: [[The Monks are Cheating]]
 * 2026-07-16: [[Chasing a Memory]]
 * 2026-07-24: [[Evaporating]]
+* 2026-07-28: [[The Mirror of You]]
 
