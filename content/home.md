@@ -112,4 +112,5 @@ If you want to read about the philosophy behind these musings, see the main [gre
 * 2026-07-16: [[Chasing a Memory]]
 * 2026-07-24: [[Evaporating]]
 * 2026-07-28: [[The Mirror of You]]
+* 2026-09-06: [[Love is All]]
 
